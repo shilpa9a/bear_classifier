@@ -1,0 +1,13 @@
+fastai
+graphviz
+ipywidgets
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
+voila
+pillow<7
+packaging
+fastbook
